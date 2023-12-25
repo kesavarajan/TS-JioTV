@@ -1,7 +1,12 @@
 {
   "functions": {
-    "TS-JioTV/index.php": {
-      "runtime": "vercel-php@0.5.2"
+    "app/*.php": {
+      "runtime": "vercel-php@0.6.0"
     }
-  }
+  },
+  "routes": [
+    { "src": "/(.*)",  "dest": "/index.php" },
+    { "src": "/css/output.css", "dest": "/css/output.css" },
+    { "src": "/css/input.css", "dest": "/css/input.css" }
+  ]
 }
