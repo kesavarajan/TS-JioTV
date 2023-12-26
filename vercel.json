@@ -8,6 +8,7 @@
       }
   },
   "routes": [
-  
+    { "src": "assets/data/credskey.jtv", "dest": "app/assets/data/credskey.jtv" },
+     { "src": "assets/data/creds.jtv", "dest": "app/assets/data/creds.jtv" }
   ]
 }
