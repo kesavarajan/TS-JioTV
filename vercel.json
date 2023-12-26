@@ -1,5 +1,5 @@
 {
-  "regions":["ebome1"],
+  "regions":["bom1"],
   "functions": {
       "api/*.php": {
       "runtime": "vercel-php@0.6.0"
