@@ -66,5 +66,4 @@ foreach ($json['result'] as $channel) {
     $jio_data .= '#EXTINF:-1 tvg-id="' . $channel['channel_id'] . '" tvg-name="' . $channel['channel_name'] . '" tvg-type="' . $GENRE_MAP[$channel['channelCategoryId']] . '" group-title="TS-JioTV ' . $GENRE_MAP[$channel['channelCategoryId']] . '" tvg-language="' . $LANG_MAP[$channel['channelLanguageId']] . '" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/' . $channel['logoUrl'] . '",' . $channel['channel_name'] . PHP_EOL;
     $jio_data .= $jio_path . 'live.php?id=' . $channel['channel_id'] . '&e=.m3u8' . PHP_EOL;
 }
-print($json);
 print(file_get_contents('https://jiotv.data.cdn.jio.com/apis/v1.3/getMobileChannelList/get/?langId=6&os=android&devicetype=phone&usergroup=tvYR7NSNn7rymo3F&version=277&langId=6'));
