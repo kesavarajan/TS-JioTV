@@ -1,12 +1,10 @@
 {
   "functions": {
-    "app/*.php": {
+      "app/*.php": {
       "runtime": "vercel-php@0.6.0"
     }
   },
   "routes": [
-    { "src": "/(.*)",  "dest": "/index.php" },
-    { "src": "/css/output.css", "dest": "/css/output.css" },
-    { "src": "/css/input.css", "dest": "/css/input.css" }
+    { "src": "/(.*)",  "dest": "/index.php" }
   ]
 }
