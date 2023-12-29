@@ -118,7 +118,7 @@ http://localhost:8080/app/live.php?id=1081&e=.m3u8
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-type="Kids"  tvg-language="Tamil" group-title="TVChannels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png",sonic Tamil
 http://localhost:8080/app/live.php?id=290&e=.m3u8
 
-#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-type="Kids"  tvg-language="Tamil"group-title="TVChannels"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png",Sony Yay Tamil
+#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-type="Kids"  tvg-language="Tamil" group-title="TVChannels"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png",Sony Yay Tamil
 http://localhost:8080/app/live.php?id=873&e=.m3u8
 
 #EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-type="Kids"  tvg-language="Tamil" group-title="TVChannels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",Discovery Kids Tamil
@@ -142,7 +142,7 @@ http://localhost:8080/app/live.php?id=853&e=.m3u8
 #EXTINF:-1 tvg-id=ts287 group-title="TVChannels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png",Animal Planet HD World
 http://localhost:8080/app/live.php?id=1219&e=.m3u8
 
-#EXTINF:-1 tvg-id="1772" tvg-name="Sony Ten 4 HD Tamil" tvg-type="Sports"  tvg-language="Tamil"group-title="TVChannels"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",Sony Ten 4 HD Tamil
+#EXTINF:-1 tvg-id="1772" tvg-name="Sony Ten 4 HD Tamil" tvg-type="Sports"  tvg-language="Tamil" group-title="TVChannels"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",Sony Ten 4 HD Tamil
 http://localhost:8080/app/live.php?id=1772&e=.m3u8
 
 #EXTINF:-1 tvg-id="645" tvg-name="Captain News" tvg-type="News"  tvg-language="Tamil" group-title="TVChannels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png",Captain News
@@ -163,7 +163,7 @@ http://localhost:8080/app/live.php?id=970&e=.m3u8
 #EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar Seithigal " tvg-type="News"  tvg-language="Tamil" group-title="TVChannels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png",Kalaignar Seithigal 
 http://localhost:8080/app/live.php?id=1210&e=.m3u8
 
-#EXTINF:-1 tvg-id="1515" tvg-name="News J" tvg-type="News"  tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png",News J
+#EXTINF:-1 tvg-id="1515" tvg-name="News J" tvg-type="News"  tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="TVChannels" ,News J
 http://localhost:8080/app/live.php?id=1515&e=.m3u8
 
 #EXTINF:-1 tvg-id="1954" tvg-name="News Tamil 24x7" tvg-type="News"  tvg-language="Tamil" group-title="TVChannels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png",News Tamil 24x7
