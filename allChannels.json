@@ -370,20 +370,6 @@
         "channel_genre": "Tata Sky"
     },
     {
-        "channel_id": "997",
-        "channel_name": "Tata Play Toons+",
-        "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001160",
-        "channel_url": "https://delta13tatasky.akamaized.net/out/i/5615195.mpd",
-        "channel_entitlements": [
-            "1000002141",
-            "1000001819",
-            "1000000001",
-            "1000000002"
-        ],
-        "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png",
-        "channel_genre": "null"
-    },
-    {
         "channel_id": "439",
         "channel_name": "Raj TV",
         "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000456",
