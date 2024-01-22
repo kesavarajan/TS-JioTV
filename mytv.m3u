@@ -87,9 +87,6 @@ http://localhost:8080/app/live.php?id=542&e=.m3u8
 #EXTINF:-1 tvg-id="546" tvg-name="Nick Tamil" tvg-type="Kids"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",Nick Tamil
 http://localhost:8080/app/live.php?id=546&e=.m3u8
 
-#EXTINF:-1 tvg-id=ts681 group-title="TV Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png" ,Cartoon Network HD+
-http://localhost:8080/app/live.php?id=1081&e=.m3u8
-
 #EXTINF:-1 tvg-id="290" tvg-name="sonic Tamil" tvg-type="Kids"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png",sonic Tamil
 http://localhost:8080/app/live.php?id=290&e=.m3u8
 
@@ -159,7 +156,7 @@ http://localhost:8080/app/live.php?id=677&e=.m3u8
 #EXTINF:-1 tvg-id="676" tvg-name="Sun News" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png",Sun News
 http://localhost:8080/app/live.php?id=676&e=.m3u8
 
-#EXTINF:-1 tvg-id="636" tvg-name="Polimer News" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer News
+#EXTINF:-1 tvg-id="6366" tvg-name="Polimer News" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer News
 http://localhost:8080/app/live.php?id=636&e=.m3u8
 
 
