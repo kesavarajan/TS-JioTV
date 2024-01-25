@@ -129,7 +129,7 @@ http://localhost:8080/app/live.php?id=673&e=.m3u8
 #EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png",Raj News 24x7
 http://localhost:8080/app/live.php?id=767&e=.m3u8
 
-#EXTINF:-1 tvg-id="970" tvg-name="Win TV" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png",group-title="TV Channels"Win TV
+#EXTINF:-1 tvg-id="970" tvg-name="Win TV" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png",group-title="TV Channels",Win TV
 http://localhost:8080/app/live.php?id=970&e=.m3u8
 
 #EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar Seithigal " tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png",Kalaignar Seithigal 
