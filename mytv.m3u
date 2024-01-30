@@ -91,6 +91,9 @@ http://localhost:8080/app/live.php?id=873&e=.m3u8
 #EXTINF:-1 tvg-id="550" tvg-name="Discovery Kids Tamil" tvg-type="Kids"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",Discovery Kids Tamil
 http://localhost:8080/app/live.php?id=550&e=.m3u8
 
+#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png",News 18 Tamilnadu
+http://localhost:8080/app/live.php?id=615&e=.m3u8
+
 #EXTINF:-1 tvg-id="569" tvg-name="D Tamil" tvg-type="Infotainment"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",D Tamil
 http://localhost:8080/app/live.php?id=569&e=.m3u8
 
@@ -109,53 +112,50 @@ http://localhost:8080/app/live.php?id=1219&e=.m3u8
 #EXTINF:-1 tvg-id="1772" tvg-name="Sony Ten 4 HD Tamil" tvg-type="Sports"  tvg-language="Tamil" group-title="TV Channels"  tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",Sony Ten 4 HD Tamil
 https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
-#EXTINF:-1 tvg-id="615" tvg-name="News 18 Tamilnadu" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png",News 18 Tamilnadu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539099/ei/-2O3Za3IBI2d3LUP_oiQ6AU/ip/117.222.132.92/id/mQrZJFyYzlI.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxTtkJrff1MeRANl_HL8TkV_d78JKpwMBDIojIH45xo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOZ-yqFfOEMO1RFiFuB93opU7cVbNVe6tc_PTq7wb7_WAiEAx_U_SADbNjbpiAl1Na2LMXknY_XN3LUh_0KdVs50Oes%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-id="645" tvg-name="Captain News" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png",Captain News
 http://localhost:8080/app/live.php?id=645&e=.m3u8
+
+#EXTINF:-1 tvg-id="671" tvg-name="Sathiyam TV" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png",Sathiyam TV
+http://localhost:8080/app/live.php?id=671&e=.m3u8
+
+#EXTINF:-1 tvg-id="673" tvg-name="News7 Tamil" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png",News7 Tamil
+http://localhost:8080/app/live.php?id=673&e=.m3u8
+
+#EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png",Raj News 24x7
+http://localhost:8080/app/live.php?id=767&e=.m3u8
+
+#EXTINF:-1 tvg-id="2434" tvg-name="M Nadu" tvg-type="News" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png",M Nadu
+http://localhost:8080/app/live.php?id=2434&e=.m3u8
 
 #EXTINF:-1 tvg-id="970" tvg-name="Win TV" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png",group-title="TV Channels",Win TV
 http://localhost:8080/app/live.php?id=970&e=.m3u8
 
-#EXTINF:-1 tvg-id="671" tvg-name="Sathiyam TV" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png",Sathiyam TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706538748/ei/nGK3ZcSbELCOz7sP0LSesA8/ip/117.222.132.92/id/vP9qJJ4gmgc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxPttyBVPQWqDPiHo6qN3R56h1YRPd7U0tc88243MCg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgVNgdXB-OgY9BKoOkoWAjZVuQwwXWu7s6enz_KTqdnBkCIEYrLbNT2ndH20-aIGWa2lVdlN6Ual2EkbQ2_icyFXUW/file/index.m3u8
-
-#EXTINF:-1 tvg-id="673" tvg-name="News7 Tamil" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png",News7 Tamil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539288/ei/uGS3ZbPkLP-xz7sPqNiLiAc/ip/117.222.132.92/id/mQrZJFyYzlI.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwS9_MIz8zr-l5N0SzYl6PPRonL1BTV23_fb2ZvkNSM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgB_l8UJx8CFYKFaAadVqsqker_ersuxaDPXog98MsccoCIQDNZawlGhldtFUdu3XG9YpJjWzMVvti0967K_n77LJtzg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png",Raj News 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706540084/ei/1Ge3ZbqqCpKAz7sPyrKO-As/ip/117.222.132.92/id/63p2lo17xlA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0LDAn0lYshBxhqKn0NvAVJK154ZP94CAOf_05KRFQw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANtdWaYR1CXODZIMP6trDORNdjxaG2V6D9Ipa7yAEBrXAiEAkBn5ueO8LYmvYZoOT-gIYp5OQkT_uN2hNjssdhajRsc%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-id="2434" tvg-name="M Nadu" tvg-type="News" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png",M Nadu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706540164/ei/JGi3Zd2uAcmW4-EP05Wl6A4/ip/117.222.132.92/id/3rTU6JmzhxM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8hbZtTnZdhRIjgixmCMDKXwyXWO9siHJAZfLDdLQzE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOXikdoV_smagZx-NBTyT13tVSi78620-9RdYX7qRvm6AiEAvCVDzj7Xd5iTYZaWW_LTuYf_wQsVgL0VLn6CbfnWmLM%3D/file/index.m3u8
-
 #EXTINF:-1 tvg-id="1210" tvg-name="Kalaignar Seithigal " tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png",Kalaignar Seithigal 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539987/ei/c2e3ZdmDOPOx4-EPnfCC8AQ/ip/117.222.132.92/id/XOCUeiExfPE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwOoiycugriwRmOIFQF9xbux9I83fbDn_-9NnGernn8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAONg374U7iawu5BoDi0r015ndJdyh8O0MZBwQ29qBXaeAiABAYPmhVHKDRQ_zJoPTzCk6KMInHa-9w0b7fi9zNAtKA%3D%3D/file/index.m3u8
+http://localhost:8080/app/live.php?id=1210&e=.m3u8
 
 #EXTINF:-1 tvg-id="1515" tvg-name="News J" tvg-type="News"  tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="TV Channels" ,News J
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539410/ei/MmW3ZbP5LKzKjuMP5cWH0AI/ip/117.222.132.92/id/VPH3gY5zgSw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8_cxwXSDEDdNwwvA-DGChkCX-aH8OoKO7rWLNrryHo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIi357vTTnSJkOEocZwN5gel7cE-sdgYXNc7NBm3FIaYAiEA0vJK8yKvfLWu31hn7ywmoKXViO-fQB8jOk6m15o6fPQ%3D/file/index.m3u8
+http://localhost:8080/app/live.php?id=1515&e=.m3u8
 
 #EXTINF:-1 tvg-id="1954" tvg-name="News Tamil 24x7" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png",News Tamil 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539860/ei/9Ga3ZbugEKvm4-EPscqV6AM/ip/117.222.132.92/id/kqnwIrHiw2w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5e8GmkthboLXwglncO4OQIdfIkr8-9l0s7lolXNsvk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSvTqZmzdgOblxn3ktD9fsekZg9XRQ_7JUw3RvtIewdcCIFTdD1a1zcLav0cbowPSYcRJtwNv4iIcenyWnymz-hZO/file/index.m3u8
+http://localhost:8080/app/live.php?id=1954&e=.m3u8
 
 #EXTINF:-1 tvg-id="826" tvg-name="Malai Murasu" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png",Malai Murasu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539905/ei/IWe3ZajmFdjy4-EPydSGwAs/ip/117.222.132.92/id/XZ2Suj8WfHQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5nOekEsKxuTc6JAnDBuHLQgv98G6DmeZQHsmPDQw8o/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgM3_-JUzOzRgF_Z-dOYg3U2cgSWwL_jkj7GBfeHEFenwCIQCdLDcLYSUTsG3mjfvfnoHpMY45D16cn7WXU7n4jh2wpg%3D%3D/file/index.m3u8
+http://localhost:8080/app/live.php?id=826&e=.m3u8
 
 #EXTINF:-1 tvg-id="830" tvg-name="Thanthi TV" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png",Thanthi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539493/ei/hWW3ZcOEArre4-EPhoGGsAE/ip/117.222.132.92/id/FeweQREkl44.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0C6pR2307W7ELZRU3-DLBGvIyXZehEScUFr6xJlhVM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKrFxcxfpCW5YV0kWkSbw9LF8BVII7AO4vR1g6l-xWAYAiBFSiH-VN3Eaf5yTYjvPohtXmGHBiuUwDO4EUSu3ZEAog%3D%3D/file/index.m3u8
+http://localhost:8080/app/live.php?id=830&e=.m3u8
 
 #EXTINF:-1 tvg-id="418" tvg-name="Jaya Plus" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png",Jaya Plus
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539754/ei/ima3ZbWfGtijz7sPjrG02AQ/ip/117.222.132.92/id/DOh2rtfZcZU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwbGIVH40m2lNbShuHK2ei7s7hp8kH5MNAQcid4JChw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPQZqtFpMB3OTxFWsEjP59TTANfW0vSVfXIbd0v5dJBQCIQCYQsQDmDcFj5YGflKy1lae5YxjU3Ixa1PtG5CIYSDSDw%3D%3D/file/index.m3u8
+http://localhost:8080/app/live.php?id=418&e=.m3u8
 
 #EXTINF:-1 tvg-id="677" tvg-name="Puthiya Thalimurai" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png",Puthiya Thalimurai
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539568/ei/0GW3Ze_CGs3u4-EPwbuRmAc/ip/117.222.132.92/id/ccZpGXxmkhs.133/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7jh7UMTNY2rG-sN14ivNGygPS7F1ne3wmyFcBPq1Sk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIge0mU59pEbzijDvNe_JQWny4Q_kBgWbWatw6fls8b0LICIQDooH122d2UM5SWNdKY040ZIhelLkZDLZ-zG95MKvkRuA%3D%3D/file/index.m3u8
+http://localhost:8080/app/live.php?id=677&e=.m3u8
 
 #EXTINF:-1 tvg-id="676" tvg-name="Sun News" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png",Sun News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539626/ei/Cma3ZZr_FveYs8IP1uKggAI/ip/117.222.132.92/id/9M02G5c6x6w.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyvxXCN_S2HqHGYsEdr7VYy1xhiFQUOrnHhJJ4g7JKM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRJ7Wa3CDcCue_VOmNmdwm-rRVDsud6nz32lVhuGCw4YCIFjTob58IDmoEJfGGN8JnpKqupRURTKIwqr9Ee12zxJh/file/index.m3u8
+http://localhost:8080/app/live.php?id=676&e=.m3u8
 
 #EXTINF:-1 tvg-id="6366" tvg-name="Polimer News" tvg-type="News"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706539679/ei/P2a3ZcyNLfPLs8IPtMe2-AE/ip/117.222.132.92/id/ePVKhbnwXgU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1nd8V-kWllFWxBApkdQ7lmFpCwDN65UTGzTVLQNrKE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIIC-nOLv1ttWjk2xVaB5CqYMFaEGu8Gq5DPcr7Q5vNwAiAeKNN4gGgNq2AwrP6o_b5GMMlQCbXgiwu_KmjlTADMVw%3D%3D/file/index.m3u8
+http://localhost:8080/app/live.php?id=636&e=.m3u8
 
 
 #EXTM3U  Tamil Streams Rasi
