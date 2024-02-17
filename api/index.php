@@ -89,12 +89,12 @@
 </body>
 <script>
     document.getElementById("loginButton").addEventListener("click", function() {
-        window.location.href = "app/login.php";
+        window.location.href = "api/login.php";
     });
 
     document.getElementById("logoutButton").addEventListener("click", function() {
         var xhr = new XMLHttpRequest();
-        xhr.open("POST", "app/logout.php", true);
+        xhr.open("POST", "api/logout.php", true);
         xhr.onreadystatechange = function() {
             if (xhr.readyState === 4 && xhr.status === 200) {
                 alert(xhr.responseText);
@@ -117,7 +117,7 @@
         }
 
         var jioPath = protocol + '//' + hostJio + window.location.pathname.replace(/\/[^/]*$/, '');
-        var jioPath = jioPath + '/app/playlist.php';
+        var jioPath = jioPath + '/api/playlist.php';
 
         navigator.clipboard.writeText(jioPath)
             .then(() => {
