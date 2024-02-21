@@ -1,11 +1,11 @@
 {
-  "functions": {
+    "regions": ["bom1"],
+    "functions": {
       "api/*.php": {
-      "runtime": "vercel-php@0.6.0"
+        "runtime": "vercel-php@0.7.0"
       }
-  },
-  "routes": [
-    { "src": "assets/data/credskey.jtv", "dest": "app/assets/data/credskey.jtv" },
-     { "src": "assets/data/creds.jtv", "dest": "app/assets/data/creds.jtv" }
-  ]
-}
+    },
+    "routes": [
+      { "src": "/(.*)", "dest": "/api/index.php" }
+    ]
+  }
