@@ -1,6 +1,9 @@
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="TV Channels",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
+#EXTINF:-1 tvg-name="Chithiram" tvg-type="Movies"  tvg-language="Tamil" group-title="TV Channels" ,Chithiram
+https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="2256" tvg-name="Zee Thirai" tvg-type="Movies"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
 http://localhost:8080/app/live.php?id=2256&e=.m3u8
 
