@@ -92,8 +92,6 @@ http://localhost:8080/app/live.php?id=845&e=.m3u8
 http://localhost:8080/app/live.php?id=847&e=.m3u8
 #EXTINF:-1 tvg-id="857" tvg-name="Vendhar TV" tvg-type="Entertainment" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar TV
 http://localhost:8080/app/live.php?id=857&e=.m3u8
-#EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-type="Kids" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png",Sony Yay Tamil
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-type="Movies" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 http://localhost:8080/app/live.php?id=894&e=.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-type="Music" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png",Sun Music HD
