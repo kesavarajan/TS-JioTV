@@ -1,3 +1,5 @@
+#EXTM3U  x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/jiotv/epg.xml.gz" 
+
 #EXTINF:-1 tvg-id="762" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="TV Channels",SONY PIX HD
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
@@ -64,7 +66,7 @@ http://localhost:8080/app/live.php?id=726&e=.m3u8
 http://localhost:8080/app/live.php?id=727&e=.m3u8
 #EXTINF:-1 tvg-id="748" tvg-name="Raj Musix" tvg-type="Music" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
 http://localhost:8080/app/live.php?id=748&e=.m3u8
-#EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-type="News" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png",Raj News 24x7
+#EXTINF:-1 tvg-id="767" tvg-name="Raj News 24x7" tvg-type="News" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png",Raj News 24x7
 http://localhost:8080/app/live.php?id=767&e=.m3u8
 #EXTINF:-1 tvg-id="796" tvg-name="Peppers TV" tvg-type="Entertainment" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png",Peppers TV
 http://localhost:8080/app/live.php?id=796&e=.m3u8
@@ -91,7 +93,7 @@ http://localhost:8080/app/live.php?id=847&e=.m3u8
 #EXTINF:-1 tvg-id="857" tvg-name="Vendhar TV" tvg-type="Entertainment" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar TV
 http://localhost:8080/app/live.php?id=857&e=.m3u8
 #EXTINF:-1 tvg-id="873" tvg-name="Sony Yay Tamil" tvg-type="Kids" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png",Sony Yay Tamil
-http://localhost:8080/app/live.php?id=873&e=.m3u8
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-type="Movies" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
 http://localhost:8080/app/live.php?id=894&e=.m3u8
 #EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-type="Music" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png",Sun Music HD
@@ -116,8 +118,6 @@ http://localhost:8080/app/live.php?id=1255&e=.m3u8
 http://localhost:8080/app/live.php?id=1356&e=.m3u8
 #EXTINF:-1 tvg-id="1371" tvg-name="Colors Tamil" tvg-type="Entertainment" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil.png",Colors Tamil
 http://localhost:8080/app/live.php?id=1371&e=.m3u8
-#EXTINF:-1 tvg-id="1417" tvg-name="SVBC2" tvg-type="Devotional" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",SVBC2
-http://localhost:8080/app/live.php?id=1417&e=.m3u8
 #EXTINF:-1 tvg-id="1438" tvg-name="Velukkudi Discourses" tvg-type="Devotional" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png",Velukkudi Discourses
 http://localhost:8080/app/live.php?id=1438&e=.m3u8
 #EXTINF:-1 tvg-id="1515" tvg-name="News J" tvg-type="News" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png",News J
@@ -130,18 +130,12 @@ http://localhost:8080/app/live.php?id=1537&e=.m3u8
 http://localhost:8080/app/live.php?id=1655&e=.m3u8
 #EXTINF:-1 tvg-id="1731" tvg-name="N5TV" tvg-type="News" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/N5TV.png",N5TV
 http://localhost:8080/app/live.php?id=1731&e=.m3u8
-#EXTINF:-1 tvg-id="1738" tvg-name="Hosanna TV" tvg-type="Devotional" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hosanna_TV.png",Hosanna TV
-http://localhost:8080/app/live.php?id=1737&e=.m3u8
 #EXTINF:-1 tvg-id="460" tvg-name="SONY BBC Earth HD" group-title="TV Channels" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
 #EXTINF:-1 tvg-id="1772" tvg-name="Sony Ten 4 HD Tamil" tvg-type="Sports" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",Sony Ten 4 HD Tamil
 https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 #EXTINF:-1 tvg-id="1850" tvg-name="SVBC" tvg-type="Devotional" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png",SVBC
 http://localhost:8080/app/live.php?id=1850&e=.m3u8
-#EXTINF:-1 tvg-id="1858" tvg-name="SVBC3" tvg-type="Devotional" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC3.png",SVBC3
-http://localhost:8080/app/live.php?id=1858&e=.m3u8
-#EXTINF:-1 tvg-id="1859" tvg-name="SVBC4" tvg-type="Devotional" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC4.png",SVBC4
-http://localhost:8080/app/live.php?id=1859&e=.m3u8
 #EXTINF:-1 tvg-id="1954" tvg-name="News Tamil 24x7" tvg-type="News" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Tamil_24x7.png",News Tamil 24x7
 http://localhost:8080/app/live.php?id=1954&e=.m3u8
 #EXTINF:-1 tvg-id="2256" tvg-name="Zee Thirai" tvg-type="Movies" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Thirai.png",Zee Thirai
