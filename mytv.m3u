@@ -8,6 +8,8 @@ https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SUN TV HD" group-title="Live",SUN TV HD
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155880&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="KTV HD" group-title="Live",KTV HD
