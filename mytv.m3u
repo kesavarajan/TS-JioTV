@@ -6,373 +6,216 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-name="Chithiram" tvg-type="Movies"  tvg-language="Tamil" group-title="TV Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Chithiram_tv_logo.jpg/revision/latest",Chithiram
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| CINEMANIA 4K" group-title="Live",TAMIL| CINEMANIA 4K
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1438226&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| JAYA TV HD" group-title="Live",TAMIL| JAYA TV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="JAYA TV HD" group-title="Live",JAYA TV HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155878&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| JAYA MAX" group-title="Live",TAMIL| JAYA MAX
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="JAYA MAX" group-title="Live",JAYA MAX
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155893&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| JAYA PLUS" group-title="Live",TAMIL| JAYA PLUS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="JAYA PLUS" group-title="Live",JAYA PLUS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155891&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| STAR VIJAY HD" group-title="Live",TAMIL| STAR VIJAY HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR VIJAY HD" group-title="Live",STAR VIJAY HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155874&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| STAR VIJAY TV" group-title="Live",TAMIL| STAR VIJAY TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281855&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| ZEE TAMIL HD" group-title="Live",TAMIL| ZEE TAMIL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL HD" group-title="Live",ZEE TAMIL HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155876&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| ZEE TAMIL SD" group-title="Live",TAMIL| ZEE TAMIL SD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155901&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| ZEE TAMIL" group-title="Live",TAMIL| ZEE TAMIL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281862&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| ZEE THIRAI" group-title="Live",TAMIL| ZEE THIRAI
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE THIRAI" group-title="Live",ZEE THIRAI
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155912&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SUN TV HD" group-title="Live",TAMIL| SUN TV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV HD" group-title="Live",SUN TV HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155880&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SUN TV HD (BP)" group-title="Live",TAMIL| SUN TV HD (BP)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=369375&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SUN LIFE TAMIL" group-title="Live",TAMIL| SUN LIFE TAMIL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SUN LIFE TAMIL" group-title="Live",SUN LIFE TAMIL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155889&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SUN MUSIC HD" group-title="Live",TAMIL| SUN MUSIC HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC HD" group-title="Live",SUN MUSIC HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155881&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| NEWS 7" group-title="Live",TAMIL| NEWS 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 7" group-title="Live",NEWS 7
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155918&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| NEWS 18 TAMIL NADU" group-title="Live",TAMIL| NEWS 18 TAMIL NADU
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 18 TAMIL NADU" group-title="Live",NEWS 18 TAMIL NADU
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155914&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| NEWS J" group-title="Live",TAMIL| NEWS J
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS J" group-title="Live",NEWS J
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281895&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SUN NEWS TAMIL" group-title="Live",TAMIL| SUN NEWS TAMIL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SUN NEWS TAMIL" group-title="Live",SUN NEWS TAMIL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155890&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| ANGEL TV HD" group-title="Live",TAMIL| ANGEL TV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="ANGEL TV HD" group-title="Live",ANGEL TV HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155922&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| COLORS HD" group-title="Live",TAMIL| COLORS HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" group-title="Live",COLORS HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155888&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SONY YAY" group-title="Live",TAMIL| SONY YAY
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY YAY" group-title="Live",SONY YAY
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155900&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SONY BBC EARTH HD" group-title="Live",TAMIL| SONY BBC EARTH HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155885&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| HISTORY TV 18 HD" group-title="Live",TAMIL| HISTORY TV 18 HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY TV 18 HD" group-title="Live",HISTORY TV 18 HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155886&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| DD PODHIGAI" group-title="Live",TAMIL| DD PODHIGAI
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="DD PODHIGAI" group-title="Live",DD PODHIGAI
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155911&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| DD SAPTAGIRI" group-title="Live",TAMIL| DD SAPTAGIRI
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155894&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| DISCOVERY" group-title="Live",TAMIL| DISCOVERY
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281850&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| DISCOVERY KIDS TAMIL" group-title="Live",TAMIL| DISCOVERY KIDS TAMIL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS TAMIL" group-title="Live",DISCOVERY KIDS TAMIL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155897&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| DISCOVERY WORLD HD" group-title="Live",TAMIL| DISCOVERY WORLD HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" group-title="Live",DISCOVERY WORLD HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155879&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| ADHTIYA TV" group-title="Live",TAMIL| ADHTIYA TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="ADHTIYA TV" group-title="Live",ADHTIYA TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155892&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| CHUTTI TV" group-title="Live",TAMIL| CHUTTI TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="CHUTTI TV" group-title="Live",CHUTTI TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155896&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| CINEMA TAMIL" group-title="Live",TAMIL| CINEMA TAMIL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA TAMIL" group-title="Live",CINEMA TAMIL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097662&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| FOX LIFE HD" group-title="Live",TAMIL| FOX LIFE HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" group-title="Live",FOX LIFE HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155887&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| IMAYAM TV" group-title="Live",TAMIL| IMAYAM TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="IMAYAM TV" group-title="Live",IMAYAM TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155928&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| J MOVIES" group-title="Live",TAMIL| J MOVIES
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="J MOVIES" group-title="Live",J MOVIES
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155921&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MADHA TV" group-title="Live",TAMIL| MADHA TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MADHA TV" group-title="Live",MADHA TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155929&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MADHIMUGHAM TV" group-title="Live",TAMIL| MADHIMUGHAM TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MADHIMUGHAM TV" group-title="Live",MADHIMUGHAM TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155904&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MAKKAL TV" group-title="Live",TAMIL| MAKKAL TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAL TV" group-title="Live",MAKKAL TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155907&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MALAR TV" group-title="Live",TAMIL| MALAR TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MALAR TV" group-title="Live",MALAR TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097667&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MALAI MURASU SEITHIKAL" group-title="Live",TAMIL| MALAI MURASU SEITHIKAL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MALAI MURASU SEITHIKAL" group-title="Live",MALAI MURASU SEITHIKAL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097673&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MK TV" group-title="Live",TAMIL| MK TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MK TV" group-title="Live",MK TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155933&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MK TUNES" group-title="Live",TAMIL| MK TUNES
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MK TUNES" group-title="Live",MK TUNES
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097671&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MK MUSIC" group-title="Live",TAMIL| MK MUSIC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MK MUSIC" group-title="Live",MK MUSIC
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155916&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| MOON TV" group-title="Live",TAMIL| MOON TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="MOON TV" group-title="Live",MOON TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155931&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| NAMBIKKAI TV" group-title="Live",TAMIL| NAMBIKKAI TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="NAMBIKKAI TV" group-title="Live",NAMBIKKAI TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155925&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| NAT GEO TAMIL HD" group-title="Live",TAMIL| NAT GEO TAMIL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO TAMIL HD" group-title="Live",NAT GEO TAMIL HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155884&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| NAT GEO WILD TAMIL HD" group-title="Live",TAMIL| NAT GEO WILD TAMIL HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="WILD TAMIL HD" group-title="Live",WILD TAMIL HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155877&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| ANIMAL PLANET TAMIL" group-title="Live",TAMIL| ANIMAL PLANET TAMIL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET TAMIL" group-title="Live",ANIMAL PLANET TAMIL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281983&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| ANIMAL PLANET HD" group-title="Live",TAMIL| ANIMAL PLANET HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=282679&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| POLIMER TV" group-title="Live",TAMIL| POLIMER TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="POLIMER TV" group-title="Live",POLIMER TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155909&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| POLIMER NEWS" group-title="Live",TAMIL| POLIMER NEWS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="POLIMER NEWS" group-title="Live",POLIMER NEWS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155902&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| PUTHIYA THALIMURAI" group-title="Live",TAMIL| PUTHIYA THALIMURAI
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="PUTHIYA THALIMURAI" group-title="Live",PUTHIYA THALIMURAI
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155919&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| PUTHUYUGAM" group-title="Live",TAMIL| PUTHUYUGAM
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="PUTHUYUGAM" group-title="Live",PUTHUYUGAM
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155898&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| RAJ TV" group-title="Live",TAMIL| RAJ TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="RAJ TV" group-title="Live",RAJ TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155910&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| RAJ MUSIX" group-title="Live",TAMIL| RAJ MUSIX
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="RAJ MUSIX" group-title="Live",RAJ MUSIX
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155913&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| RAJ NEWS" group-title="Live",TAMIL| RAJ NEWS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="RAJ NEWS" group-title="Live",RAJ NEWS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155905&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| RAJ DIGITAL PLUS" group-title="Live",TAMIL| RAJ DIGITAL PLUS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="RAJ DIGITAL PLUS" group-title="Live",RAJ DIGITAL PLUS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155908&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SALVATION TV" group-title="Live",TAMIL| SALVATION TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155934&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SATHIYAM TV" group-title="Live",TAMIL| SATHIYAM TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SATHIYAM TV" group-title="Live",SATHIYAM TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155906&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| TAMILAN TV" group-title="Live",TAMIL| TAMILAN TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="TAMILAN TV" group-title="Live",TAMILAN TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155932&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| TATA SKY TAMIL CINEMA" group-title="Live",TAMIL| TATA SKY TAMIL CINEMA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155883&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| TVI HD" group-title="Live",TAMIL| TVI HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155920&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| VALICHAM PLUS" group-title="Live",TAMIL| VALICHAM PLUS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="VALICHAM PLUS" group-title="Live",VALICHAM PLUS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155927&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| VANDHAR TV" group-title="Live",TAMIL| VANDHAR TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="VENDHAR TV" group-title="Live",VENDHAR TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155903&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| VASANTH TV" group-title="Live",TAMIL| VASANTH TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="VASANTH TV" group-title="Live",VASANTH TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155895&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| VIJAY SUPER" group-title="Live",TAMIL| VIJAY SUPER
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="VIJAY SUPER" group-title="Live",VIJAY SUPER
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155875&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| WIN NEWS" group-title="Live",TAMIL| WIN NEWS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="WIN NEWS" group-title="Live",WIN NEWS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155926&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| 7S MUSIC" group-title="Live",TAMIL| 7S MUSIC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="7S MUSIC" group-title="Live",7S MUSIC
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281866&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| BBC EARTH" group-title="Live",TAMIL| BBC EARTH
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" group-title="Live",BBC EARTH
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281848&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| HINDU DHARMAM" group-title="Live",TAMIL| HINDU DHARMAM
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281875&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| DHEERAN TV" group-title="Live",TAMIL| DHEERAN TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="DHEERAN TV" group-title="Live",DHEERAN TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281874&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| IBC 24" group-title="Live",TAMIL| IBC 24
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="IBC 24" group-title="Live",IBC 24
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281876&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| KTV HD" group-title="Live",TAMIL| KTV HD
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="KTV HD" group-title="Live",KTV HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155882&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| KTV" group-title="Live",TAMIL| KTV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281859&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| NAMBIKKAI TV" group-title="Live",TAMIL| NAMBIKKAI TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281892&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| PEPPERS" group-title="Live",TAMIL| PEPPERS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="PEPPERS" group-title="Live",PEPPERS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281896&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SAHANA" group-title="Live",TAMIL| SAHANA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SAHANA" group-title="Live",SAHANA
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281900&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SAIRAM TV" group-title="Live",TAMIL| SAIRAM TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SAIRAM TV" group-title="Live",SAIRAM TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281901&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SAI TV" group-title="Live",TAMIL| SAI TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="SAI TV" group-title="Live",SAI TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281902&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SANKARA TV" group-title="Live",TAMIL| SANKARA TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281903&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SVBC" group-title="Live",TAMIL| SVBC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281904&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SVBC 2" group-title="Live",TAMIL| SVBC 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281905&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| THANTHI TV" group-title="Live",TAMIL| THANTHI TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="THANTHI TV" group-title="Live",THANTHI TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281908&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| TRAVEL XP" group-title="Live",TAMIL| TRAVEL XP
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" group-title="Live",TRAVEL XP
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281863&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| AASEERVATHAM" group-title="Live",TAMIL| AASEERVATHAM
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097674&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| HUNGAMA" group-title="Live",TAMIL| HUNGAMA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097666&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| HUNGAMA KIDS" group-title="Live",TAMIL| HUNGAMA KIDS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA KIDS" group-title="Live",HUNGAMA KIDS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097664&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| HOLLYWOOD LOCAL" group-title="Live",TAMIL| HOLLYWOOD LOCAL
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD LOCAL" group-title="Live",HOLLYWOOD LOCAL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097661&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| PUTHIYA THALAIMURAI" group-title="Live",TAMIL| PUTHIYA THALAIMURAI
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="PUTHIYA THALAIMURAI" group-title="Live",PUTHIYA THALAIMURAI
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097670&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| SHALINI TV" group-title="Live",TAMIL| SHALINI TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097668&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| VIJAY MUSIC" group-title="Live",TAMIL| VIJAY MUSIC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097660&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| VAANAVIL TV" group-title="Live",TAMIL| VAANAVIL TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="VAANAVIL TV" group-title="Live",VAANAVIL TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281911&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TAMIL| VENDHAR TV" group-title="Live",TAMIL| VENDHAR TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
+
+#EXTINF:-1 tvg-id="" tvg-name="VENDHAR TV" group-title="Live",VENDHAR TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281914&extension=ts
 
 
