@@ -7,6 +7,28 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV HD" group-title="Live",SUN TV HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155880&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="KTV HD" group-title="Live",KTV HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155882&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR VIJAY HD" group-title="Live" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",STAR VIJAY HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155874&extension=ts
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281855&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="VIJAY SUPER" group-title="Live",VIJAY SUPER
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155875&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL HD" group-title="Live"tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",ZEE TAMIL HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155876&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" group-title="Live",COLORS HD
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155888&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE THIRAI" group-title="Live",ZEE THIRAI
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155912&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="JAYA TV HD" group-title="Live",JAYA TV HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155878&extension=ts
 
@@ -16,20 +38,10 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155893&exten
 #EXTINF:-1 tvg-id="" tvg-name="JAYA PLUS" group-title="Live",JAYA PLUS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155891&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR VIJAY HD" group-title="Live",STAR VIJAY HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155874&extension=ts
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281855&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ADHTIYA TV" group-title="Live",ADHTIYA TV
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155892&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL HD" group-title="Live",ZEE TAMIL HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155876&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEE THIRAI" group-title="Live",ZEE THIRAI
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155912&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SUN TV HD" group-title="Live",SUN TV HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155880&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SUN LIFE TAMIL" group-title="Live",SUN LIFE TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="SUN LIFE TAMIL" group-title="Live"tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png",SUN LIFE TAMIL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155889&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC HD" group-title="Live",SUN MUSIC HD
@@ -50,9 +62,6 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155890&exten
 #EXTINF:-1 tvg-id="" tvg-name="ANGEL TV HD" group-title="Live",ANGEL TV HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155922&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" group-title="Live",COLORS HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155888&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-name="SONY YAY" group-title="Live",SONY YAY
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155900&extension=ts
 
@@ -67,9 +76,6 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155897&exten
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD" group-title="Live",DISCOVERY WORLD HD
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155879&extension=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ADHTIYA TV" group-title="Live",ADHTIYA TV
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155892&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CHUTTI TV" group-title="Live",CHUTTI TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155896&extension=ts
@@ -164,8 +170,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155903&exten
 #EXTINF:-1 tvg-id="" tvg-name="VASANTH TV" group-title="Live",VASANTH TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155895&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="VIJAY SUPER" group-title="Live",VIJAY SUPER
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155875&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN NEWS" group-title="Live",WIN NEWS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155926&extension=ts
@@ -182,8 +187,6 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281874&exten
 #EXTINF:-1 tvg-id="" tvg-name="IBC 24" group-title="Live",IBC 24
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281876&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="KTV HD" group-title="Live",KTV HD
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=155882&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="PEPPERS" group-title="Live",PEPPERS
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281896&extension=ts
@@ -203,8 +206,7 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281908&exten
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" group-title="Live",TRAVEL XP
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281863&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA KIDS" group-title="Live",HUNGAMA KIDS
-http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097664&extension=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD LOCAL" group-title="Live",HOLLYWOOD LOCAL
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097661&extension=ts
@@ -218,6 +220,8 @@ http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281911&exten
 #EXTINF:-1 tvg-id="" tvg-name="VENDHAR TV" group-title="Live",VENDHAR TV
 http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=281914&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA KIDS" group-title="Live",HUNGAMA KIDS
+http://line.greatstar.me/play/live.php?mac=00:1a:79:c7:74:97&stream=1097664&extension=ts
 
 
 #EXTINF:-1 tvg-id="628" tvg-name="Zee Tamil" tvg-type="Entertainment" group-title="TV Channels" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
