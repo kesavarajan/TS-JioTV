@@ -412,7 +412,7 @@
             "channel_id": "723",
             "channel_name": "Tamil Naaptol",
             "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000774",
-            "channel_url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_954/output/manifest.mpd",
+            "channel_url": "https://bpweb7.akamaized.net/out/i/8025864.mpd",
             "channel_entitlements": [
                 "1000000002",
                 "1000001368",
@@ -427,7 +427,7 @@
             "channel_id": "499",
             "channel_name": "Vasanth TV",
             "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000523",
-            "channel_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_813/output/manifest.mpd",
+            "channel_url": "https://bpweb5.akamaized.net/out/i/6472180.mpd",
             "channel_entitlements": [
                 "1000000001",
                 "1000001523",
