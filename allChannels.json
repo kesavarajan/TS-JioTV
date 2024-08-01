@@ -582,7 +582,7 @@
             "channel_id": "1182",
             "channel_name": "Zee Thirai HD",
             "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001322",
-            "channel_url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/manifest.mpd",
+            "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd",
             "channel_entitlements": [
                 "1000000002",
                 "1000002473"
@@ -1444,16 +1444,6 @@
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
             "channel_url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd"
         },{
-            "channel_id": "78",
-            "channel_name": "Star Sports 1 HD",
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
-            "channel_url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd"
-        },{
-            "channel_id": "119",
-            "channel_name": "Discovery Kids",
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",
-            "channel_url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd"
-        },{
             "channel_id": "119",
             "channel_name": "Discovery Kids",
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",
@@ -1469,11 +1459,6 @@
             "channel_name": "National Geographic",
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",
             "channel_url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd"
-        },{
-            "channel_id": "144",
-            "channel_name": "Disney Junior",
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",
-            "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd"
         },{
             "channel_id": "144",
             "channel_name": "Disney Junior",
