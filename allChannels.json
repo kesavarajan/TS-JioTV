@@ -1,4 +1,5 @@
-[
+{
+    "channels":[
     {
         "channel_id": "49",
         "channel_name": "T News",
@@ -1729,3 +1730,4 @@
         "channel_genre": "Tata Sky"
     }
 ]
+}
