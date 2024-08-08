@@ -177,51 +177,6 @@
             "channel_genre": "Tata Sky"
         },
         {
-            "channel_id": "257",
-            "channel_name": "Zee Tamil",
-            "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000271",
-            "channel_url": "https://bpweb3.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd",
-            "channel_entitlements": [
-                "1000001035",
-                "1000001794",
-                "1000001553",
-                "1000001397",
-                "1000001267",
-                "1000001078",
-                "1000000666",
-                "1000002411",
-                "1000001504",
-                "1000001076",
-                "1000001821",
-                "1000001420",
-                "1000000267",
-                "1000001517",
-                "1000001221",
-                "1000001374",
-                "1000000816",
-                "1000002405",
-                "1000002409",
-                "1000001728",
-                "1000001545",
-                "1000002412",
-                "1000001434",
-                "1000001546",
-                "1000001430",
-                "1000001523",
-                "1000002226",
-                "1000001509",
-                "1000001139",
-                "1000001428",
-                "1000000884",
-                "1000000001",
-                "1000001212",
-                "1000002413",
-                "1000001375"
-            ],
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png",
-            "channel_genre": "Tata Sky"
-        },
-        {
             "channel_id": "674",
             "channel_name": "Colors Tamil HD",
             "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000713",
@@ -589,40 +544,6 @@
             ],
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZETIHD_Thumbnail-v2/ZETIHD_Thumbnail.png",
             "channel_genre": "Movies"
-        },
-        {
-            "channel_id": "797",
-            "channel_name": "Zee Thirai",
-            "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000884",
-            "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_989/output/manifest.mpd",
-            "channel_entitlements": [
-                "1000001625",
-                "1000000666",
-                "1000001546",
-                "1000001839",
-                "1000001545",
-                "1000000002",
-                "1000001707",
-                "1000002177",
-                "1000001434",
-                "1000002417",
-                "1000000001",
-                "1000001720",
-                "1000001267",
-                "1000001880",
-                "1000001038",
-                "1000001139",
-                "1000001076",
-                "1000001374",
-                "1000001728",
-                "1000002226",
-                "1000001523",
-                "1000001517",
-                "1000002416",
-                "1000001035"
-            ],
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49016-k5lx1za0-v2/imageContent-49016-k5lx1za0-m2.png",
-            "channel_genre": "Tata Sky"
         },
         {
             "channel_id": "444",
@@ -1345,54 +1266,7 @@
             ],
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",
             "channel_genre": "Tata Sky"
-        },
-        {
-            "channel_id": "119",
-            "channel_name": "Discovery Tata Sky",
-            "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000126",
-            "channel_url": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd",
-            "channel_entitlements": [
-                "1000001277",
-                "1000001188",
-                "1000001115",
-                "1000000104",
-                "1000001363",
-                "1000001278",
-                "1000001226",
-                "1000001085",
-                "1000001273",
-                "1000002177",
-                "1000001342",
-                "1000001225",
-                "1000001231",
-                "1000001002",
-                "1000000077",
-                "1000001348",
-                "1000001199",
-                "1000001079",
-                "1000002227",
-                "1000001092",
-                "1000001872",
-                "1000001035",
-                "1000002198",
-                "1000002359",
-                "1000001109",
-                "1000001003",
-                "1000002197",
-                "1000001350",
-                "1000001703",
-                "1000001272",
-                "1000000794",
-                "1000001276",
-                "1000000812",
-                "1000000985",
-                "1000001108",
-                "1000001349",
-                "1000000001"
-            ],
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",
-            "channel_genre": "Tata Sky"
-        },
+        },    
         {
             "channel_id": "127",
             "channel_name": "Sonic Nickelodeon",
@@ -1455,11 +1329,6 @@
             "channel_url": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd"
         }
         ,{
-            "channel_id": "137",
-            "channel_name": "National Geographic",
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",
-            "channel_url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd"
-        },{
             "channel_id": "144",
             "channel_name": "Disney Junior",
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",
@@ -1470,11 +1339,6 @@
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-551-j5ky7ufk-v5/imageContent-551-j5ky7ufk-m7.png",
             "channel_url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd"
         },{
-            "channel_id": "184",
-            "channel_name": "Nat Geo Wild",
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-438-j5jt26xc-v2/imageContent-438-j5jt26xc-m2.png",
-            "channel_url": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/manifest.mpd"
-        },{
             "channel_id": "235",
             "channel_name": "Star Sports 2 HD",
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",
@@ -1484,11 +1348,6 @@
             "channel_name": "Star Sports 1 HD",
             "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",
             "channel_url": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd"
-        },{
-            "channel_id": "334",
-            "channel_name": "DD Tamil",
-            "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDTAM_Thumbnail-v1/DDTAM_Thumbnail.png",
-            "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_519/output/manifest.mpd"
         },{
             "channel_id": "341",
             "channel_name": "Discovery HD World",
